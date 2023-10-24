@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RAFDWI
 - 👀 I’m interested in networking and web development
-- 🌱 I’m currently learning networkong TCP/IP,Routing,Switching and troubleshooting networking and also learn to new framework to development website
+- 🌱 I’m currently learning networkinng.TCP/IP,Routing,Switching and troubleshooting networking and also learn to new framework to development website
 - 📫 How to reach me on email rafidwy@gmail.com
 
 <!---
